@@ -4,13 +4,13 @@
 Here’s a summary and a few suggestions to improve the code further:
 
 Key Features:
-Add Song: You can add songs to the playlist, and optionally add them to a priority queue as well.
-Remove Song: You can remove a song by its title, and it has undo/redo capabilities.
-Display Playlist: You can display all songs in the playlist, sorted by rating or filtered by a specific rating.
-Search Song: You can search for a song by its title (case-insensitive).
-Undo/Redo: Supports undoing and redoing actions (such as adding or removing a song).
-Priority Queue: Songs can be added to a priority queue, and the top-rated songs can be displayed in the order of their rating.
-File Handling: The program supports loading from and saving to text files for both the playlist and the priority queue.
+1. Add Song: You can add songs to the playlist, and optionally add them to a priority queue as well.
+2. Remove Song: You can remove a song by its title, and it has undo/redo capabilities.
+3. Display Playlist: You can display all songs in the playlist, sorted by rating or filtered by a specific rating.
+4. Search Song: You can search for a song by its title (case-insensitive).
+5. Undo/Redo: Supports undoing and redoing actions (such as adding or removing a song).
+6. Priority Queue: Songs can be added to a priority queue, and the top-rated songs can be displayed in the order of their rating.
+7. File Handling: The program supports loading from and saving to text files for both the playlist and the priority queue.
 Improvements & Enhancements:
 Error Handling for Invalid Input:
 
